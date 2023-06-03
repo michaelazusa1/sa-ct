@@ -5,16 +5,32 @@
   },
   "ads_config": {
     "ios": {
-      "interstitial": true,
-      "appOpen": true,
-      "interstitialSplash": true,
-      "banner": true
+      "applovin": {
+        "interstitial": true,
+        "appOpen": true,
+        "interstitialSplash": true,
+        "banner": true
+      },
+      "all": {
+        "interstitial": true,
+        "appOpen": true,
+        "interstitialSplash": true,
+        "banner": true
+      }
     },
     "all": {
-      "interstitial": true,
-      "appOpen": true,
-      "interstitialSplash": true,
-      "banner": true
+      "applovin": {
+        "interstitial": true,
+        "appOpen": true,
+        "interstitialSplash": true,
+        "banner": true
+      },
+      "all": {
+        "interstitial": true,
+        "appOpen": true,
+        "interstitialSplash": true,
+        "banner": true
+      }
     }
   }
 }
